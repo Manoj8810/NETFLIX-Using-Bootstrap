@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(26, 25, 25);
+}
+#search-box {
+  margin-top: 20px;
+  border: 0;
+  border-radius: 0;
+  width: 700px;
+  padding: px;
+  padding-left: 10px;
+}
+#search-btn {
+  margin-top: 15px;
+  width: 268px;
+  font-size: 35px;
+  border: 0;
+  border-radius: 0;
+  position: relative;
+  left: -13px;
+  padding: 12px;
+}
+#search {
+  margin-top: 15px;
+  width: 512px;
+}
